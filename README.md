@@ -1,6 +1,6 @@
 # spring-interceptor
 视频地址:http://www.fei-kuai.com <br><br>
-spring Interceptor 使用场景<br><br>
+spring Interceptor 【spring 拦截器】 使用场景<br><br>
 1、签名<br>
 2、跨域<br>
 3、登录拦截<br>
